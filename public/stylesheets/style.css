@@ -75,3 +75,17 @@ header {
   height: 400px;
   background-color: #CCC;
 }
+
+/************************************
+ABOUT
+*************************************/
+
+.about {
+	text-align: center;
+	font-size: 26px;
+	line-height: 1.6;
+}
+
+.about-p {
+	padding: 0px 15%;
+}
