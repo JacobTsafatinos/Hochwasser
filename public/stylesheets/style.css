@@ -12,6 +12,11 @@ ul li {
 	display: inline;
 }
 
+.wrap, .contactWrap {
+	width: 1170px;
+	margin: 0 auto;
+}
+
 
 
 /************************************
@@ -26,6 +31,7 @@ header {
 	height: 400px;
 	padding-top: 50px;
 }
+
 
 .head {
 	text-align: center;
@@ -77,6 +83,44 @@ header {
 }
 
 /************************************
+CONTACT
+*************************************/
+
+.contact-info {
+	background-color: #c10f15;
+	height: 200px;
+	font-size: 25px;
+	color: white;
+}
+
+.contactWrap {
+	padding-top: 30px;
+}
+
+.contact {
+	float: left;
+	display: inline-block;
+}
+
+.ticketinfo {
+	margin-top: 0px;
+}
+
+.reservation {
+	float: right;
+	padding-top: 35px;
+	padding-right: 100px;
+}
+
+.reso {
+	margin-top: 0px;
+	border: 1px solid white;
+	padding: 15px 15px;
+	background-color: black;
+}
+
+
+/************************************
 ABOUT
 *************************************/
 
@@ -84,8 +128,16 @@ ABOUT
 	text-align: center;
 	font-size: 26px;
 	line-height: 1.6;
+	background-color: yellow;
+}
+
+.about h1 {
+	margin: 0px 0px;
+	padding-top: 35px;
 }
 
 .about-p {
 	padding: 0px 15%;
+	margin-bottom: 0px;
+	padding-bottom: 35px;
 }
