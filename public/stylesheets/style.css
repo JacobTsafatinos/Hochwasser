@@ -29,6 +29,7 @@ header {
 
 .head {
 	text-align: center;
+	clear: both;
 }
 
 .title {
@@ -51,12 +52,14 @@ header {
 
 .socialmedia {
 	float: left;
+	margin: 0px;
 }
 
 .menu {
 	position: relative;
 	top: 15px;
 	float: right;
+	margin: 0px;
 }
 
 .sm-item {
