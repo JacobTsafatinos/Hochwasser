@@ -141,3 +141,37 @@ ABOUT
 	margin-bottom: 0px;
 	padding-bottom: 35px;
 }
+
+/************************************
+ABOUT
+*************************************/
+
+.cast {
+	text-align: center;
+}
+
+.cast-crew {
+	font-size: 40px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.people {
+	width: 1170px;
+}
+
+.person {
+	width: 150px;
+	text-align: center;
+	float: left;
+	margin-left: 180px;
+	margin-top: 30px;
+
+}
+.arturo {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+
+
