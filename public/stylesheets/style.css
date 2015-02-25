@@ -24,9 +24,9 @@ HEADER
 *************************************/
 
 header {
-	/*background-image: url("../images/swimrat3.jpg");*/
+	background-image: url("../images/darkwater.jpg");
 	background-color: black;
-	background-size: cover;
+	background-size: 100% 100%;
 	background-position: center;
 	height: 400px;
 	padding-top: 50px;
@@ -128,7 +128,6 @@ ABOUT
 	text-align: center;
 	font-size: 26px;
 	line-height: 1.6;
-	background-color: yellow;
 }
 
 .about h1 {
@@ -143,7 +142,7 @@ ABOUT
 }
 
 /************************************
-ABOUT
+CAST
 *************************************/
 
 .cast {
@@ -162,6 +161,7 @@ ABOUT
 
 .person {
 	width: 150px;
+	height: 450px;
 	text-align: center;
 	float: left;
 	margin-left: 180px;
@@ -174,4 +174,7 @@ ABOUT
 	width: 150px;
 }
 
+.description {
+	
+}
 
