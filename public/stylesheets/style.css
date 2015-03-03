@@ -28,7 +28,7 @@ header {
 	background-color: black;
 	background-size: 100% 100%;
 	background-position: center;
-	height: 400px;
+	height: 600px;
 	padding-top: 50px;
 }
 
@@ -87,10 +87,11 @@ CONTACT
 *************************************/
 
 .contact-info {
-	background-color: #c10f15;
+	/*background-color: #c10f15;*/
 	height: 200px;
 	font-size: 25px;
 	color: white;
+	padding-top: 125px;
 }
 
 .contactWrap {
@@ -133,13 +134,14 @@ ABOUT
 
 .about h1 {
 	margin: 0px 0px;
-	padding-top: 35px;
+	padding-top: 85px;
+	/*padding-bottom: 15px;*/
 }
 
 .about-p {
 	padding: 0px 15%;
 	margin-bottom: 0px;
-	padding-bottom: 35px;
+	padding-bottom: 100px;
 }
 
 /************************************
@@ -152,7 +154,7 @@ CAST
 
 .cast-crew {
 	font-size: 40px;
-	padding-top: 50px;
+	padding-top: 1.9em;
 	padding-bottom: 30px;
 }
 
