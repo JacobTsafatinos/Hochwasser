@@ -19,6 +19,7 @@ ul li {
 .wrap, .contactWrap {
 	width: 1170px;
 	margin: 0 auto;
+	height: 100%;
 }
 
 
@@ -95,15 +96,19 @@ CONTACT
 *************************************/
 
 .contact-info {
-	/*background-color: #c10f15;*/
-	height: 200px;
+	height: 150px;
 	font-size: 25px;
 	color: #DCE3E8;
-	padding-top: 125px;
+	padding-top: 175px;
+}
+
+#contact-container {
+	padding: 15px;
 }
 
 .contactWrap {
-	padding-top: 30px;
+	background-color: rgba(0, 0, 0, 0.6);
+	padding: 15px, 15px, 15px, 15px;
 }
 
 .contact {
