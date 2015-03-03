@@ -11,6 +11,10 @@ a {
 	color: #DCE3E8;
 }
 
+h1 {
+	font-weight: lighter;
+}
+
 ul li {
 	list-style: none;
 	display: inline;
