@@ -202,6 +202,17 @@ CAST
 	width: 100%;
 }
 
+.name {
+	margin-bottom: 5px;
+	
+}
+
+.role {
+	margin-top: 5px;
+	font-weight: normal;
+	font-style: italic;
+}
+
 .description {
 	
 }
